@@ -37,27 +37,16 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rlakshmipranaytej&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlakshmipranaytej&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlakshmipranaytej&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlakshmipranaytej&theme=tokyo-night" alt="Activity Graph">
-</p>
 
 ---
 
 ### 🔗 Connect With Me  
-📧 **Email:** [rlakshmipranaytej@gmail.com](mailto:rlakshmipranaytej@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rlakshmipranaytej](https://linkedin.com/in/rlakshmipranaytej)  
-🐍 **GitHub:** [github.com/rlakshmipranaytej](https://github.com/rlakshmipranaytej)
+📧 **Email:** [lakshmipranaytej@gmail.com](mailto:lakshmipranaytej@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ravulakollakshmipranaytej](https://linkedin.com/in/ravulakollakshmipranaytej)  
+🐍 **GitHub:** [github.com/Pranay207](https://github.com/Pranay207)
+
+---
+
 
 ---
 

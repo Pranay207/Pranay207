@@ -1,12 +1,50 @@
-- 👋 Hi, I’m R Lakshmi Pranay Tej
-- 👀 I’m interested in AI, Data Science, Full-Stack Development.
-- 🌱 I’m currently learning advanced Python, machine learning, and building cool apps with Streamlit and n8n.
-- 💞️ I’m looking to collaborate on open-source projects that solve real-world problems, especially in health tech and automation
-- 📫 How to reach me: lakshmipranaytej@gmail.com| [LinkedIn](https://www.linkedin.com/in/ravulakollakshmipranaytej)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once built a disease prediction app with a chatbot just for fun—and now I want to make it even smarter!
+<!-- Animated Banner -->
+<h1 align="center">🤖 Hi, I'm R Lakshmi Pranay Tej</h1>
+<h3 align="center">🎓 CSE Student | 🤖 AI & ML Explorer | 💡 Full-Stack & Design Enthusiast</h3>
 
-<!---
-Pranay207/Pranay207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="150" alt="animated robot">
+</p>
+
+---
+
+### 👨‍🎓 About Me  
+🔍 **Exploring:** Artificial Intelligence | Machine Learning | Data Science | Full-Stack Development  
+🛠 **Building:** ML Prediction Apps | Chatbots | Automation Tools | Streamlit Dashboards  
+🧠 **Learning:** Deep Learning | Prompt Engineering | Model Optimization  
+🎯 **Goal:** Land an AI/ML internship & publish a research paper  
+⚡ **Fun Fact:** I can debug logic faster than I find my keys 😄  
+
+---
+
+### 💻 Tech Stack  
+
+#### 📊 Data & Machine Learning  
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `Matplotlib`
+
+#### 🤖 AI & Automation  
+`n8n` • `Streamlit` • `LangChain` • `OpenAI` • `Chatbot Development`
+
+#### 🌐 Development & Tools  
+`HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code` • `Jupyter` • `Colab`
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rlakshmipranaytej&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlakshmipranaytej&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
+</p>
+
+---
+
+### 🔗 Connect With Me  
+📧 **Email:** [rlakshmipranaytej@gmail.com](mailto:rlakshmipranaytej@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/rlakshmipranaytej](https://linkedin.com/in/rlakshmipranaytej)  
+🐍 **GitHub:** [github.com/rlakshmipranaytej](https://github.com/rlakshmipranaytej)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rlakshmipranaytej&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>

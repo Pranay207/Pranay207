@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Hey+I'm+Pranay+Tej+%F0%9F%91%8B;AI+%2F+ML+Developer;Full-Stack+Builder;AI+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
+# Hi, I'm Lakshmi Pranay Tej 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Developer+%F0%9F%A7%A0;Full-Stack+Builder+%F0%9F%8F%97%EF%B8%8F;AI+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-1A56DB?style=for-the-badge"/>

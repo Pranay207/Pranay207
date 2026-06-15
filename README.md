@@ -95,6 +95,31 @@ class PranayTej:
 
 ---
 
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| 🔬 Area | 📚 What I'm Diving Into |
+|---------|------------------------|
+| 🤖 LLMs | Fine-tuning & prompt engineering on domain-specific data |
+| 🎨 Generative AI | Diffusion Models, Stable Diffusion, image synthesis |
+| ⚙️ MLOps | Model versioning, CI/CD pipelines, scalable inference |
+| 📐 ML Theory | Advanced optimization, Bayesian methods, probabilistic ML |
+
+</div>
+
+---
+
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay207&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">

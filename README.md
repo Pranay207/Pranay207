@@ -22,22 +22,22 @@
 class PranayTej:
     name       = "Lakshmi Pranay Tej Ravulakol"
     role       = ["AI/ML Developer", "Full-Stack Builder", "AI Innovator"]
-    languages  = ["Python 🐍", "JavaScript ⚡", "SQL 🗄️"]
+    languages  = ["Python ", "JavaScript ", "SQL "]
     
     interests  = [
-        "Large Language Models & Fine-tuning 🧠",
-        "Computer Vision & Object Detection 👁️",
-        "Generative AI — GANs & Diffusion Models 🎨",
-        "End-to-End ML Pipelines & Deployment 🚀",
-        "Building AI-Powered Full-Stack Products 🌐",
-        "ML Theory — Linear Algebra, Probability, Optimization 📐",
+        "Large Language Models & Fine-tuning ",
+        "Computer Vision & Object Detection ",
+        "Generative AI — GANs & Diffusion Models ",
+        "End-to-End ML Pipelines & Deployment ",
+        "Building AI-Powered Full-Stack Products ",
+        "ML Theory — Linear Algebra, Probability, Optimization ",
     ]
     
-    currently  = "Training models & shipping products 🔥"
-    fun_fact   = "I debug faster than I find my charger ⚡"
+    currently  = "Training models & shipping products "
+    fun_fact   = "I debug faster than I find my charger "
     
     def say_hi(self):
-        print("Let's build something that actually works. 🚀")
+        print("Let's build something that actually works. ")
 ```
 
 ---

@@ -135,7 +135,7 @@ class PranayTej:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravulakolalakshmipranaytej)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravulakollakshmipranaytej)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmipranaytej@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=1A56DB&center=true&vCenter=true&width=500&lines=Train+hard.+Deploy+fast.+Iterate+always.+%F0%9F%9A%80" alt="Tagline" />

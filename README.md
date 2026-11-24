@@ -1,7 +1,12 @@
 <div align="center">
 
 # `LAKSHMI PRANAY TEJ RAVULAKOL`
-### `APPLIED AI SYSTEMS ARCHITECT & FULL-STACK ENGINEER`
+
+<a href="https://rlptej.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7928CA&center=true&vCenter=true&width=650&lines=Applied+AI+Systems+Architect;Full-Stack+AI+Engineer;Machine+Learning+Systems+Engineer;Autonomous+Agent+%26+MCP+Developer" alt="Roles Typing SVG" />
+</a>
+
+<br/>
 
 <a href="https://rlptej.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-rlptej.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ravulakollakshmipranaytej"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0070F3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -87,31 +92,4 @@
 * **[ProofPilot AI](https://github.com/Pranay207/ProofPilot-AI):** Automated merchant dispute and chargeback defense platform linking Razorpay webhooks with real-time Shiprocket courier telemetry. ([Live Platform](https://proofpilot-ai.onrender.com/))
 * **[RetroScan-AI](https://github.com/Pranay207/RetroScan-AI):** Computer-vision road asset monitoring and retroreflectivity measurement system engineered to NHAI standards for nocturnal visibility and road safety auditing. ([Live System](https://retroscanai.netlify.app/))
 * **[EDUTRACKX-AI](https://github.com/Pranay207/EDUTRACKX-AI):** Full-stack academic intelligence platform combining predictive ML grade modeling, OCR grade-sheet extraction, and automated study scheduling. ([Live System](https://edutrackx-ai.vercel.app/))
-* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and spatial risk analytics. ([Demo Video](https://drive.google.com/file/d/1x79Sieo932Qus2gGZ1qW0VVg8mOtw9KM/view?usp=sharing))
-
-### Production Stack & Toolchain
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,nodejs,postgres,aws,docker,git,linux,tailwind&perline=12" alt="Tech Stack" />
-</div>
-
-### System Telemetry & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay207&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay207&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-
-<p><strong>Open to engineering challenges, systems architecture deep-dives, and production AI roles.</strong></p>
-
-<a href="https://rlptej.vercel.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-rlptej.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/ravulakollakshmipranaytej"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0070F3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lakshmipranaytej@gmail.com"><img src="https://img.shields.io/badge/DISPATCH_EMAIL-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-</div>
+* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and spatial risk analytics. ([Demo Video](https://drive.google.com

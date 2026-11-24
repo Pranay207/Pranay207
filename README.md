@@ -1,163 +1,88 @@
 <div align="center">
 
-# Lakshmi Pranay Tej Ravulakol
+# Lakshmi Pranay Tej
 
-<a href="https://rlptej.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1A56DB&center=true&vCenter=true&width=640&lines=AI+%2F+ML+Developer;Full-Stack+AI+Product+Builder;Hackathon+Finalist+Mindset+%7C+Ships+Under+Deadlines" alt="Typing SVG" />
-</a>
+### I build AI products for real Indian problems, and I ship them end to end.
 
-**3rd-year B.Tech CSE student in Hyderabad who builds production-ready AI products end to end: model, API, interface, deployment.**
+Legal docs · Road safety · Forest operations · Healthcare · Space networks · Fintech
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://rlptej.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravulakollakshmipranaytej)
-[![Email](https://img.shields.io/badge/Email-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmipranaytej@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-1A56DB?style=for-the-badge&logo=readme&logoColor=white)](#) <!-- EDIT: replace # with your resume PDF link -->
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rlptej.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://rlptej.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravulakollakshmipranaytej)
+[![Email](https://img.shields.io/badge/Email-Hire_me-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmipranaytej@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-10B981?style=for-the-badge&logo=readthedocs&logoColor=white)](ADD_RESUME_LINK)
 
 </div>
 
 ---
 
-## ⚡ Quick Look
+## 🎯 In 10 seconds
 
 | | |
 |---|---|
-| 🎯 **Seeking** | AI/ML Intern · AI Software Engineer Intern · Full-Stack AI Intern |
-| 🎓 **Education** | B.Tech Computer Science, KG Reddy College of Engineering and Technology (2024–2028) |
-| 📍 **Based in** | Hyderabad, India (open to remote and relocation) |
-| 🛠️ **Core strength** | Taking an idea to a working, deployed AI product on my own, fast |
-| 🏆 **Track record** | Hackathons, buildathons and AI challenges, shipped under real deadlines |
+| **Who** | 3rd-year B.Tech CSE student, Hyderabad (2024–2028) |
+| **Open to** | AI/ML Intern · AI Software Engineer Intern · Full-Stack AI Intern |
+| **I'm good at** | Taking a messy real-world problem and shipping a working AI product around it: model, API, UI and deployment |
+| **Currently** | AI Software Developer Intern (since July 2026) · building for hackathons and a GenAI capstone |
+| **Track record** | 🥇 1st Webathon (Festronix 2026) · 🥈 2nd AI Chatbot Competition (Techxplore 2025) · Runner-up UI/UX (AI Sudhee 2025) |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I've built
 
-<!-- EDIT: Add your 3-4 best projects below. Keep the same format for each. Strong proof (a number, a demo, a rank) beats a long description. -->
+> Every project starts from a real problem, not a tutorial.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | The problem | What I built | Stack | Links |
+|---|---|---|---|---|
+| **RetroScan-AI** 🛣️ | Road sign and asset retroreflectivity is checked manually | YOLOv8 detection with IRC 67/35 compliance scoring, GPS heat maps, condition simulation and PDF reports. Built for NHAI 6th Innovation Hackathon | YOLOv8 · OpenCV · FastAPI · React · Tailwind | [Repo](ADD_LINK) · [Demo](ADD_LINK) |
+| **Forest Guardian** 🌲 | Forest field teams need tools that work with poor connectivity | Multi-role mobile platform (Officer, Range Officer, Admin) with live GPS patrols, incident reporting, SOS flow and offline-first sync, plus an AI service for risk, route and hotspot recommendations | Flutter · Node/Express · MongoDB · Firebase · FastAPI | [Repo](ADD_LINK) |
+| **Clarilaw.ai** ⚖️ | Legal text is hard to classify and route | NLP legal intent classifier, **92.4% accuracy** | Transformers · Python | [Repo](ADD_LINK) |
+| **Medical Prescription OCR** 💊 | Doctors' handwriting is hard to read | OpenCV segmentation, CycleGAN handwriting adaptation (trained on **5,578 samples**) and TrOCR transcription, shipped as a Gradio app with a pytest + GitHub Actions CI suite | CycleGAN · TrOCR · OpenCV · Gradio | [Repo](ADD_LINK) |
+| **DeFang** 📄 | Indian contracts hide risky clauses | On-device legal red-flag scanner for Indian contracts, built at Bharat Build Tour | AWS Builder Center | [Repo](ADD_LINK) |
+| **PRAHARI** 🛰️ | ISRO ground-station networks run air-gapped | Air-gapped AI copilot for ground-station network operations (BAH 2026 entry) | LLMs · Offline AI | [Repo](ADD_LINK) |
 
-### 🔹 [PROJECT NAME](https://github.com/Pranay207/REPO)
-**Problem:** one line on who it helps and why it matters.
-**Solution:** one line on what you built and how AI is used.
-**Proof:** metric, demo, rank or user feedback.
+<details>
+<summary><b>More builds</b></summary>
 
-`Python` `FastAPI` `React` <!-- EDIT: real stack -->
+- **FraudGuard India**: real-time fraud and identity-abuse detection API for Indian fintechs
+- **ProofPilot AI**: chargeback and dispute evidence orchestration platform (Razorpay Buildathon)
+- **EduTrackX AI**: full-stack academic management app with Gemini API
+- **Frontier MVP Code Generation System**: 60+ page concept for a multimodal AI full-stack code generation platform (A2A, MCP, self-evolving prompts)
 
-[🔗 Live demo](#) · [💻 Code](#) · [🎥 Video](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [PROJECT NAME](https://github.com/Pranay207/REPO)
-**Problem:** one line.
-**Solution:** one line.
-**Proof:** metric, demo, rank or user feedback.
-
-`Python` `PyTorch` `Docker` <!-- EDIT: real stack -->
-
-[🔗 Live demo](#) · [💻 Code](#) · [🎥 Video](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 [PROJECT NAME](https://github.com/Pranay207/REPO)
-**Problem:** one line.
-**Solution:** one line.
-**Proof:** metric, demo, rank or user feedback.
-
-`Python` `LLMs` `React` <!-- EDIT: real stack -->
-
-[🔗 Live demo](#) · [💻 Code](#) · [🎥 Video](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 [PROJECT NAME](https://github.com/Pranay207/REPO)
-**Problem:** one line.
-**Solution:** one line.
-**Proof:** metric, demo, rank or user feedback.
-
-`Python` `OpenCV` `FastAPI` <!-- EDIT: real stack -->
-
-[🔗 Live demo](#) · [💻 Code](#) · [🎥 Video](#)
-
-</td>
-</tr>
-</table>
-
-➡️ More on my [portfolio](https://rlptej.vercel.app/) and [all repositories](https://github.com/Pranay207?tab=repositories).
+</details>
 
 ---
 
-## 🏆 Hackathons and Achievements
+## 🧭 Where I've worked
 
-<!-- EDIT: Add only real results. Ranks, shortlists, certifications, and anything with a number. One line each. -->
-
-- 🥇 **[Event name]**: rank / shortlist / finalist, with what you built
-- 🥈 **[Event name]**: rank / shortlist / finalist, with what you built
-- 📜 **[Certification or course]**: issuer, year
-- 🎤 **[Community role or program]**: what you do
+- **AI Software Developer Intern**, KG Reddy College of Engineering and Technology (Jul 2026 – present)
+- **Research Intern**, CBIT: NLP and computer vision for healthcare AI
+- **Technical Intern**, India Space Lab / Skill India: drone tech, GIS, OpenVSP
 
 ---
 
-## ⚙️ How I Build
-
-```text
-Problem → Data/Model → API → Interface → Deploy → Iterate
-```
-
-- **Start from a real problem**, not a trendy model.
-- **Own the full stack**: I train or integrate the model, wrap it in an API, and build the UI people actually use.
-- **Ship under pressure**: hackathon deadlines taught me to scope hard and demo something that works.
-- **Make it production-ready**: Docker, clean APIs, error handling, and a README someone else can run.
-
----
-
-## 🧰 Tech Stack
+## 🛠️ Stack
 
 | Area | Tools |
-|------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-1A56DB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1A56DB?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-1A56DB?style=flat-square&logo=mysql&logoColor=white) |
-| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-1A56DB?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1A56DB?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-1A56DB?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-1A56DB?style=flat-square&logo=opencv&logoColor=white) `YOLOv8` `LLMs` `NLP` `GANs` |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-1A56DB?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-1A56DB?style=flat-square&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1A56DB?style=flat-square&logo=docker&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-1A56DB?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-1A56DB?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-1A56DB?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1A56DB?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-1A56DB?style=flat-square&logo=python&logoColor=white) |
-| **Foundations** | Data Structures · Algorithms · Linear Algebra · Probability · Statistics |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL |
+| **AI / ML** | PyTorch · scikit-learn · Hugging Face · YOLOv8 · OpenCV · GANs · TrOCR · Gemini API |
+| **Backend** | FastAPI · Node.js · Express · REST · Auth |
+| **Frontend / Mobile** | React · Tailwind · Flutter |
+| **Data** | MongoDB · Supabase · Firebase |
+| **Ship it** | Docker · Git · GitHub Actions · pytest · Vercel · Render |
+| **Cloud / Agents** | AWS · Strands Agents SDK · Cedar |
 
-<!-- EDIT: add anything you really use: Git, AWS, Next.js, TypeScript, LangChain, vector DBs, PostgreSQL. -->
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 LLM fine-tuning, RAG and agent workflows
-- 🎨 Diffusion models and image synthesis
-- ⚙️ MLOps: model versioning, CI/CD, scalable inference
+🎓 Oracle Cloud Infrastructure 2025 AI Foundations Associate · Infosys Springboard (Generative AI) · University of London (ML for All)
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's work together
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay207&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay207&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+I'm looking for an **AI/ML or full-stack AI internship** where I can own a feature from model to UI.
+If you have a real problem and a deadline, send me a message. That's how I do my best work.
 
----
+📧 [lakshmipranaytej@gmail.com](mailto:lakshmipranaytej@gmail.com) · 🌐 [rlptej.vercel.app](https://rlptej.vercel.app/) · 💼 [LinkedIn](https://linkedin.com/in/ravulakollakshmipranaytej)
 
-## 🤝 Let's Connect
-
-I'm looking for **AI/ML and full-stack AI internships** where I can ship real products. If you have a problem worth building for, let's talk.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Explore_Portfolio-1A56DB?style=for-the-badge&logo=vercel&logoColor=white)](https://rlptej.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1A56DB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravulakollakshmipranaytej)
-[![Email](https://img.shields.io/badge/Email_Me-1A56DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmipranaytej@gmail.com)
-
-*Train hard. Deploy fast. Iterate always.* 🚀
-
-</div>
+<div align="center"><sub>Real problems. Working products. Shipped on deadline.</sub></div>

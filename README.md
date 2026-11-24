@@ -10,148 +10,82 @@
 
 <br/><br/>
 
-<code>SYSTEM_STATUS: OPEN_FOR_IMPACT</code> • <code>SPECIALIZATION: DETERMINISTIC AI & FORENSIC ENGINES</code> • <code>BASE: HYDERABAD, IN</code>
+<code>SYSTEM_STATUS: OPEN_FOR_IMPACT</code> • <code>SPECIALIZATION: LOCAL AI & MCP PROTOCOLS</code> • <code>BASE: HYDERABAD, IN</code>
 
 <p align="center">
-  <em>Engineering enterprise AI platforms, zero-hallucination compliance engines, and local-first document pipelines designed to withstand real-world failure modes.</em>
+  <em>Engineering enterprise AI platforms, air-gapped document pipelines, and autonomous agent systems designed for real-world production reliability.</em>
 </p>
 
 </div>
 
 ### 🛡️ System Design Philosophy
 
-> **`[01] ZERO-HALLUCINATION LOGIC`** ➔ Decoupling statistical LLM text generation from mathematical compliance rules via **AWS Cedar formal verification** policies.  
-> **`[02] AIR-GAPPED PRIVACY`** ➔ Running high-entropy document extraction on-device via **RapidOCR** with zero cloud egress or external API dependency.  
-> **`[03] FORENSIC PROVENANCE`** ➔ Binding every transaction anomaly, dispute claim, and extracted table cell to cryptographic and pixel-coordinate proofs.
+> <code>[01] AIR-GAPPED PRIVACY</code> ➔ Running high-entropy document extraction on-device via **RapidOCR** with zero cloud egress or external API dependency.
+>
+> <br/>
+>
+> <code>[02] VERIFIABLE EXECUTION</code> ➔ Enforcing structured tool calling via **Model Context Protocol (MCP)** and binding disputes to real-time telemetry proofs.
+>
+> <br/>
+>
+> <code>[03] INFERENCE OPTIMIZATION</code> ➔ Slashing operational latency and token overhead through semantic caching, query deduplication, and local-first SLM runtimes.
 
 ### ⚡ Core Production Systems
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" align="left">
-        <code>SYSTEM 01 // FINANCIAL FORENSICS & LAW ENFORCEMENT</code>
-        <h3>🏛️ ATP Fraud Intelligence Platform</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="70%">
-        <p><strong>Sub-second graph topology engine and anomaly scanner built for law enforcement agencies to de-anonymize money-mule rings and reconstruct illicit fund routing across shell accounts.</strong></p>
-        <p><code>TRANSACTION STREAM</code> ➔ <code>GRAPH TOPOLOGY</code> ➔ <code>MULE CLUSTERING</code> ➔ <code>COURT-READY DOSSIER</code></p>
-        <p>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Graph_Algorithms-1A56DB?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Forensic_Audit-444444?style=flat-square"/>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://atp-fraud-intelligence.vercel.app"><img src="https://img.shields.io/badge/⚡_LIVE_SYSTEM-00FF66?style=for-the-badge&logoColor=black" width="100%"/></a><br/><br/>
-        <a href="https://github.com/Pranay207/ATP-Fraud-Intelligence-System"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" width="100%"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+* ### [📊 Truecell: Document Intelligence](https://github.com/Pranay207/Truecell)
+  **Local-First OCR & Air-Gapped Table Extraction** • [Source Code](https://github.com/Pranay207/Truecell) • [Architecture Notes](https://github.com/Pranay207/Truecell#benchmarks)  
+  Air-gapped document intelligence parser converting unstructured PDFs, messy scans, and payroll sheets into formula-verified Excel sheets. 100% local processing with zero data egress.  
+  `CONFIDENTIAL SCAN` ➔ `RAPIDOCR LOCAL` ➔ `PIXEL-TO-CELL MAP` ➔ `AUDITED SPREADSHEET`  
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RapidOCR-EE4C2C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Geometry_Extraction-7928CA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AGPL--3.0-blue?style=flat-square"/>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" align="left">
-        <code>SYSTEM 02 // STATUTORY COMPLIANCE & FORMAL VERIFICATION</code>
-        <h3>⚖️ DeFang: Deterministic Contract Engine</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="70%">
-        <p><strong>Statutory risk engine formally validating Indian employment bonds, commercial leases, and MSAs. Bypasses generative AI hallucination by delegating compliance verdicts to formal mathematical policies.</strong></p>
-        <p><code>UNSTRUCTURED CONTRACT</code> ➔ <code>STRANDS SDK</code> ➔ <code>AWS CEDAR ENGINE</code> ➔ <code>STATUTORY PASS/FAIL</code></p>
-        <p>
-          <img src="https://img.shields.io/badge/AWS_Cedar-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-          <img src="https://img.shields.io/badge/AWS_OpenSearch-005ECC?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Strands_Agent_SDK-5C3EE8?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Finch_Containers-000000?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://defang-bharat.vercel.app"><img src="https://img.shields.io/badge/⚡_LIVE_SYSTEM-00FF66?style=for-the-badge&logoColor=black" width="100%"/></a><br/><br/>
-        <a href="https://github.com/Pranay207/DeFang"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" width="100%"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br/>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" align="left">
-        <code>SYSTEM 03 // PAYMENT ARBITRATION & COURIER TELEMETRY</code>
-        <h3>💳 ProofPilot AI: Merchant Dispute Defense</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="70%">
-        <p><strong>Automated chargeback mitigation infrastructure for Razorpay merchants. Intercepts payment dispute webhooks, synchronously verifies Shiprocket courier telemetry, and compiles court-grade PDF defense dossiers.</strong></p>
-        <p><code>GATEWAY DISPUTE</code> ➔ <code>SHIPROCKET TELEMETRY</code> ➔ <code>TEMPORAL RECONCILIATION</code> ➔ <code>DEFENSE DOSSIER</code></p>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Webhook_Engine-E535AB?style=flat-square"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://proofpilot-ai.onrender.com/"><img src="https://img.shields.io/badge/⚡_LIVE_SYSTEM-00FF66?style=for-the-badge&logoColor=black" width="100%"/></a><br/><br/>
-        <a href="https://github.com/Pranay207/ProofPilot-AI"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" width="100%"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+* ### [🦾 MobilityRelay: Assistive Repair Dispatch](https://github.com/Pranay207/MobilityRelay)
+  **Model Context Protocol (MCP) & Auditable Tool Execution** • [Source Code](https://github.com/Pranay207/MobilityRelay) • [▶ Video Walkthrough](https://youtu.be/5D_LI0jyQ2o)  
+  Voice and text assistive wheelchair repair coordination platform powered by real Model Context Protocol (MCP) tool abstractions, verified execution trails, and shareable case histories.  
+  `VOICE/TEXT INTENT` ➔ `MCP PROTOCOL` ➔ `VERIFIED TOOL CALL` ➔ `AUDITABLE CASE HISTORY`  
+  <br/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-MCP-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Accessibility-107C41?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MIT_License-green?style=flat-square"/>
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" align="left">
-        <code>SYSTEM 04 // LOCAL-FIRST OCR & AIR-GAPPED TABLE EXTRACTION</code>
-        <h3>📊 Truecell: Document Intelligence</h3>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="70%">
-        <p><strong>Air-gapped document intelligence parser converting unstructured PDFs, messy scans, and payroll sheets into formula-verified Excel sheets. 100% local processing with zero data egress.</strong></p>
-        <p><code>CONFIDENTIAL SCAN</code> ➔ <code>RAPIDOCR LOCAL</code> ➔ <code>PIXEL-TO-CELL MAP</code> ➔ <code>AUDITED SPREADSHEET</code></p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/RapidOCR-EE4C2C?style=flat-square"/>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Geometry_Extraction-7928CA?style=flat-square"/>
-          <img src="https://img.shields.io/badge/AGPL--3.0-blue?style=flat-square"/>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://github.com/Pranay207/Truecell"><img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" width="100%"/></a><br/><br/>
-        <a href="https://github.com/Pranay207/Truecell#benchmarks"><img src="https://img.shields.io/badge/BENCHMARKS-0070F3?style=for-the-badge" width="100%"/></a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br/>
 
-### 🔬 Applied Protocols & Autonomous Systems
+* ### [🗣️ Resolvox: Multilingual AI Support Agent](https://github.com/Pranay207/Resolvox)
+  **Local-First Voice & Order Reconciliation** • [Source Code](https://github.com/Pranay207/Resolvox)  
+  Multilingual customer support agent for retail commerce combining voice and text channels, retrieval-augmented generation (RAG), verified order lookups, and support-ticket handovers.  
+  `INBOUND VOICE/TEXT` ➔ `GNANI SPEECH` ➔ `OLLAMA LOCAL LLM` ➔ `ORDER RECONCILIATION`  
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gnani_Voice-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-7928CA?style=flat-square"/>
 
-* **[MobilityRelay](https://github.com/Pranay207/MobilityRelay):** Voice/Text assistive repair dispatch utilizing the **Model Context Protocol (MCP)** with auditable tool executions and case histories. ([▶ Watch System Walkthrough](https://youtu.be/5D_LI0jyQ2o))
-* **[Resolvox](https://github.com/Pranay207/Resolvox):** Multilingual customer support agent integrating on-device Ollama inference with Gnani voice models and order reconciliation.
-* **[ShopAssist Cost Engine](https://github.com/Pranay207/shopassist-llm-cost-optimization):** Semantic query deduplication, token profiling, and prefix caching slashing runtime LLM operational expenses.
-* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first ranger operations mobile ecosystem with real-time GPS patrol telemetry and emergency SOS dispatch.
+<br/>
+
+* ### [📉 ShopAssist: LLM Inference Cost Engine](https://github.com/Pranay207/shopassist-llm-cost-optimization)
+  **Semantic Query Caching & Token Profiling** • [Source Code](https://github.com/Pranay207/shopassist-llm-cost-optimization)  
+  Token optimization and semantic query deduplication engine engineered to slash runtime LLM operational expenses on high-frequency catalog lookups.  
+  `HIGH-FREQUENCY QUERIES` ➔ `SEMANTIC CACHING` ➔ `PREFIX PROFILING` ➔ `LATENCY & COST CUT`  
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semantic_Caching-005ECC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Token_Budgeting-107C41?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cost_Optimization-FF9900?style=flat-square"/>
+
+### 🏛️ More Production Systems & Cloud Infrastructure
+
+* **[DeFang: Deterministic Contract Engine](https://github.com/Pranay207/DeFang):** Statutory risk engine formally validating Indian agreements via AWS Cedar formal policies, Strands Agent SDK, and OpenSearch precedents. ([Live Engine](https://defang-bharat.vercel.app))
+* **[ProofPilot AI](https://github.com/Pranay207/ProofPilot-AI):** Automated merchant dispute and chargeback defense platform linking Razorpay webhooks with real-time Shiprocket courier telemetry. ([Live Platform](https://proofpilot-ai.onrender.com/))
+* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and AI risk analytics. ([Demo Video](https://drive.google.com/file/d/1x79Sieo932Qus2gGZ1qW0VVg8mOtw9KM/view?usp=sharing))
 
 ### 🛠️ Production Stack & Toolchain
 

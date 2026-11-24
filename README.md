@@ -1,6 +1,6 @@
 <div align="center">
 
-# `LAKSHMI PRANAY TEJ`
+# `LAKSHMI PRANAY TEJ RAVULAKOL`
 ### `APPLIED AI SYSTEMS ARCHITECT & FULL-STACK ENGINEER`
 
 <a href="https://rlptej.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-rlptej.vercel.app-7928CA?style=for-the-badge&logo=vercel&logoColor=white"/></a>

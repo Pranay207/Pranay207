@@ -85,7 +85,9 @@
 
 * **[DeFang: Deterministic Contract Engine](https://github.com/Pranay207/DeFang):** Statutory risk engine formally validating Indian agreements via AWS Cedar formal policies, Strands Agent SDK, and OpenSearch precedents. ([Live Engine](https://defang-bharat.vercel.app))
 * **[ProofPilot AI](https://github.com/Pranay207/ProofPilot-AI):** Automated merchant dispute and chargeback defense platform linking Razorpay webhooks with real-time Shiprocket courier telemetry. ([Live Platform](https://proofpilot-ai.onrender.com/))
-* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and AI risk analytics. ([Demo Video](https://drive.google.com/file/d/1x79Sieo932Qus2gGZ1qW0VVg8mOtw9KM/view?usp=sharing))
+* **[RetroScan-AI](https://github.com/Pranay207/RetroScan-AI):** Computer-vision road asset monitoring and retroreflectivity measurement system engineered to NHAI standards for nocturnal visibility and road safety auditing. ([Live System](https://retroscanai.netlify.app/))
+* **[EDUTRACKX-AI](https://github.com/Pranay207/EDUTRACKX-AI):** Full-stack academic intelligence platform combining predictive ML grade modeling, OCR grade-sheet extraction, and automated study scheduling. ([Live System](https://edutrackx-ai.vercel.app/))
+* **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and spatial risk analytics. ([Demo Video](https://drive.google.com/file/d/1x79Sieo932Qus2gGZ1qW0VVg8mOtw9KM/view?usp=sharing))
 
 ### 🛠️ Production Stack & Toolchain
 

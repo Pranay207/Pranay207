@@ -18,7 +18,7 @@
 
 </div>
 
-### 🛡️ System Design Philosophy
+### System Design Philosophy
 
 > <code>[01] AIR-GAPPED PRIVACY</code> ➔ Running high-entropy document extraction on-device via **RapidOCR** with zero cloud egress or external API dependency.
 >
@@ -30,9 +30,9 @@
 >
 > <code>[03] INFERENCE OPTIMIZATION</code> ➔ Slashing operational latency and token overhead through semantic caching, query deduplication, and local-first SLM runtimes.
 
-### ⚡ Core Production Systems
+### Core Production Systems
 
-* ### [📊 Truecell: Document Intelligence](https://github.com/Pranay207/Truecell)
+* ### [Truecell: Document Intelligence](https://github.com/Pranay207/Truecell)
   **Local-First OCR & Air-Gapped Table Extraction** • [Source Code](https://github.com/Pranay207/Truecell) • [Architecture Notes](https://github.com/Pranay207/Truecell#benchmarks)  
   Air-gapped document intelligence parser converting unstructured PDFs, messy scans, and payroll sheets into formula-verified Excel sheets. 100% local processing with zero data egress.  
   `CONFIDENTIAL SCAN` ➔ `RAPIDOCR LOCAL` ➔ `PIXEL-TO-CELL MAP` ➔ `AUDITED SPREADSHEET`  
@@ -45,8 +45,8 @@
 
 <br/>
 
-* ### [🦾 MobilityRelay: Assistive Repair Dispatch](https://github.com/Pranay207/MobilityRelay)
-  **Model Context Protocol (MCP) & Auditable Tool Execution** • [Source Code](https://github.com/Pranay207/MobilityRelay) • [▶ Video Walkthrough](https://youtu.be/5D_LI0jyQ2o)  
+* ### [MobilityRelay: Assistive Repair Dispatch](https://github.com/Pranay207/MobilityRelay)
+  **Model Context Protocol (MCP) & Auditable Tool Execution** • [Source Code](https://github.com/Pranay207/MobilityRelay) • [Video Walkthrough](https://youtu.be/5D_LI0jyQ2o)  
   Voice and text assistive wheelchair repair coordination platform powered by real Model Context Protocol (MCP) tool abstractions, verified execution trails, and shareable case histories.  
   `VOICE/TEXT INTENT` ➔ `MCP PROTOCOL` ➔ `VERIFIED TOOL CALL` ➔ `AUDITABLE CASE HISTORY`  
   <br/>
@@ -58,7 +58,7 @@
 
 <br/>
 
-* ### [🗣️ Resolvox: Multilingual AI Support Agent](https://github.com/Pranay207/Resolvox)
+* ### [Resolvox: Multilingual AI Support Agent](https://github.com/Pranay207/Resolvox)
   **Local-First Voice & Order Reconciliation** • [Source Code](https://github.com/Pranay207/Resolvox)  
   Multilingual customer support agent for retail commerce combining voice and text channels, retrieval-augmented generation (RAG), verified order lookups, and support-ticket handovers.  
   `INBOUND VOICE/TEXT` ➔ `GNANI SPEECH` ➔ `OLLAMA LOCAL LLM` ➔ `ORDER RECONCILIATION`  
@@ -71,7 +71,7 @@
 
 <br/>
 
-* ### [📉 ShopAssist: LLM Inference Cost Engine](https://github.com/Pranay207/shopassist-llm-cost-optimization)
+* ### [ShopAssist: LLM Inference Cost Engine](https://github.com/Pranay207/shopassist-llm-cost-optimization)
   **Semantic Query Caching & Token Profiling** • [Source Code](https://github.com/Pranay207/shopassist-llm-cost-optimization)  
   Token optimization and semantic query deduplication engine engineered to slash runtime LLM operational expenses on high-frequency catalog lookups.  
   `HIGH-FREQUENCY QUERIES` ➔ `SEMANTIC CACHING` ➔ `PREFIX PROFILING` ➔ `LATENCY & COST CUT`  
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Token_Budgeting-107C41?style=flat-square"/>
   <img src="https://img.shields.io/badge/Cost_Optimization-FF9900?style=flat-square"/>
 
-### 🏛️ More Production Systems & Cloud Infrastructure
+### More Production Systems & Cloud Infrastructure
 
 * **[DeFang: Deterministic Contract Engine](https://github.com/Pranay207/DeFang):** Statutory risk engine formally validating Indian agreements via AWS Cedar formal policies, Strands Agent SDK, and OpenSearch precedents. ([Live Engine](https://defang-bharat.vercel.app))
 * **[ProofPilot AI](https://github.com/Pranay207/ProofPilot-AI):** Automated merchant dispute and chargeback defense platform linking Razorpay webhooks with real-time Shiprocket courier telemetry. ([Live Platform](https://proofpilot-ai.onrender.com/))
@@ -89,13 +89,13 @@
 * **[EDUTRACKX-AI](https://github.com/Pranay207/EDUTRACKX-AI):** Full-stack academic intelligence platform combining predictive ML grade modeling, OCR grade-sheet extraction, and automated study scheduling. ([Live System](https://edutrackx-ai.vercel.app/))
 * **[Forest Guardian](https://github.com/Pranay207/Forest-Guardian):** Offline-first mobile ecosystem with real-time GPS patrol tracking, SOS emergency response, and spatial risk analytics. ([Demo Video](https://drive.google.com/file/d/1x79Sieo932Qus2gGZ1qW0VVg8mOtw9KM/view?usp=sharing))
 
-### 🛠️ Production Stack & Toolchain
+### Production Stack & Toolchain
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,nodejs,postgres,aws,docker,git,linux,tailwind&perline=12" alt="Tech Stack" />
 </div>
 
-### 📈 System Telemetry & Activity
+### System Telemetry & Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay207&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
